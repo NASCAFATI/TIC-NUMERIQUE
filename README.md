@@ -1,2 +1,2 @@
 # TIC-NUMERIQUE
-Travail Tic et apprentissage de base numérique (UMONS 2016)
+Travail Tic et apprentissage de base - le numérique à l'école (UMONS 2016)
